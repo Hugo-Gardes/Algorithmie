@@ -33,7 +33,7 @@ Cet exercice est consacré aux algorithmes de parcours de graphes. Il s’agit d
 Pour ce dernier exercice, le but est de se familiariser avec des algorithmes d’optimisation ou plus avancés (par exemple : Dijkstra pour le plus court chemin, ou des algorithmes de programmation dynamique). L’accent est mis sur l’analyse de la complexité et l’adaptation des algorithmes aux contraintes spécifiques des problèmes proposés.
 
 ### PDF
-- [PDF](./pdf/comparaison_results.pdf)
+- [PDF](./pdf/comparison_results.pdf)
 
 Ce PDF est un regroupement des données servant de comparatif pour les différents résultats.
 
